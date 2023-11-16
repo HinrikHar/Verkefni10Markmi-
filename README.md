@@ -1,8 +1,11 @@
-# React + Vite
+# Verkefni 10
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Í þessu verkefni er ég að nota Vite til að setja upp build feril, React sem vef framework og Tailwind CSS til að nota CSS.
 
-Currently, two official plugins are available:
+# Hvernig skal keyra?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Til þess að keyra forritið er notað `npm run dev` ef þú lendir í vandræðum er hægt að fara inn í package.json fileið og finn dev og gera Run Script.
+
+# Web API
+
+Ekki notað 😔
